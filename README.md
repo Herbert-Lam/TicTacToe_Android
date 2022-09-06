@@ -1,4 +1,4 @@
-# TicTacToe_Python
+# TicTacToe_Android
 A lab assignment of Android mobile application develoopment course.
 
 Copyright (C) by Herbert Lam
