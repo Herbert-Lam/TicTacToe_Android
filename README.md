@@ -5,7 +5,7 @@ Copyright (C) by Herbert Lam
 
 This is an academic lab assignment of Android mobile application development course. I spent around 4 hours to complete this lab assignment.
 
-This lab assignment requires me to create a Tic-Tac-Toe app that allows two users to play the game on the Android device. This app is run smoothly in portrait or landscape view and the game status is not interrupted when changing the view. A short output video is included in this repository.
+This lab assignment requires me to create a Tic-Tac-Toe app that allows two users to play the game on the Android device. This app is run smoothly in portrait or landscape view and the game status is not interrupted when changing the view. A short output video is included in this repository. The final score of this assignment is 100%.
 
 The following key Android/Java topics are used in the app:
 - 2D arrays for managing the game status
