@@ -14,6 +14,5 @@ The following key Android/Java topics are used in the app:
 - onSavedInstance and onRestoreInstance methods for consistent game progress in different views
 - Two ConstraintLayouts for the main and the 9 buttons
 
-
 Output Video:
 https://user-images.githubusercontent.com/103217937/187020162-c8a7d445-e990-425a-a965-6fd5bb55608e.mp4
