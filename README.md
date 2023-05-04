@@ -1,5 +1,5 @@
 # TicTacToe_Android
-A lab assignment of Android mobile application develoopment course.
+A lab assignment of Android mobile application development course.
 
 Copyright (C) by Herbert Lam
 
